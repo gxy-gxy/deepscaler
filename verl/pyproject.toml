@@ -30,7 +30,7 @@ authors = [
 
 # Dependencies corresponding to install_requires in setup.py
 dependencies = [
-    "accelerate",
+    # "accelerate",
     "codetiming",
     "datasets",
     "dill",
